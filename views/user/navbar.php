@@ -4,7 +4,7 @@
       <div class="container-fluid">
         <nav class="navbar navbar-expand-sm bg-secondary navbar-dark">
           <!-- Brand -->
-          <a class="navbar-brand" href="/Mid-Project/index.php"
+          <a class="navbar-brand" href="/Air-Ticket-Reservation-System-master/index.php"
             >Bangladesh Airlines</a
           >
 

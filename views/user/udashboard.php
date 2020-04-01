@@ -93,21 +93,21 @@ require '../../controllers/user/uDashboardControllers.php';
                   <div class="carousel-item active">
                     <img
                       class="d-block w-100 cimage"
-                      src="/Mid-Project/image/airline.jpg"
+                      src="/Air-Ticket-Reservation-System-master/image/airline.jpg"
                       alt="First slide"
                     />
                   </div>
                   <div class="carousel-item">
                     <img
                       class="d-block w-100 cimage"
-                      src="/Mid-Project/image/airline2.jpg"
+                      src="/Air-Ticket-Reservation-System-master/image/airline2.jpg"
                       alt="Second slide"
                     />
                   </div>
                   <div class="carousel-item">
                     <img
                       class="d-block w-100 cimage"
-                      src="/Mid-Project/image/airline3.jpg"
+                      src="/Air-Ticket-Reservation-System-master/image/airline3.jpg"
                       alt="Third slide"
                     />
                   </div>
