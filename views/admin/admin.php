@@ -97,31 +97,31 @@
           <h4 style="color: beige;">Menu</h4>
           <ul class="fa-ul">
             <li>
-              <a href="addFlight.html" style="color: #4caf50;"
+              <a href="addFlight.php" style="color: #4caf50;"
                 ><i class="fa fa-user-plus" style="font-size:30px"></i> Add
                 Flight</a
               >
             </li>
             <li>
-              <a href="updateFlight.html" style="color: #4caf50;"
+              <a href="updateFlight.php" style="color: #4caf50;"
                 ><i class="fa fa-refresh" style="font-size:30px "></i> Update
                 Flight</a
               >
             </li>
             <li>
-              <a href="showFlight.html" style="color: #4caf50;"
+              <a href="showFlight.php" style="color: #4caf50;"
                 ><i class="fa fa-group" style="font-size:30px"></i> Show
                 Flight</a
               >
             </li>
             <li>
-              <a href="removeFlight.html" style="color: #4caf50;"
+              <a href="removeFlight.php" style="color: #4caf50;"
                 ><i class="fa fa-close" style="font-size:30px"></i> Remove
                 Flight</a
               >
             </li>
             <li>
-              <a href="showcustomer.html" style="color: #4caf50;"
+              <a href="showcustomer.php" style="color: #4caf50;"
                 ><i class="fa fa-eye" style="font-size:30px"></i> Show
                 Customer</a
               >
@@ -133,8 +133,8 @@
               >
             </li>
             <li>
-              <a href="" style="color: #4caf50;"
-                ><i class="fa fa-bell-o" style="font-size:30px"></i> Show Send
+              <a href="notice.php" style="color: #4caf50;"
+                ><i class="fa fa-bell-o" style="font-size:30px"></i> Send
                 Notice</a
               >
             </li>
